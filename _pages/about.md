@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Associate Professor in Department of Mechanical Engineering and Automation at Fuzhou University (FZU), Fuzhou, China. Before joining FZU, I obtained a Ph.D. in robotic perception and planning from TAMS, Department of Informatics, University of Hamburg, Germany. My PhD supervisor is [Prof. Jianwei Zhang](https://tams.informatik.uni-hamburg.de/people/zhang/). Prior to this, I spent time as a Research Assistant in Shenzhen Institute of Advanced Technology,Chinese Academy of Sciences. I hold a B.Sc. in Mechatronics from Harbin Institute of Technology (HIT) and M.Sc. in Mechatronics from Shaoyang University,China.
+I am a Associate Professor in Department of Mechanical Engineering and Automation at [Fuzhou University](https://www.fzu.edu.cn/) (FZU), Fuzhou, China. Before joining FZU, I obtained a Ph.D. in robotic perception and planning from TAMS, Department of Informatics, University of Hamburg, Germany. My PhD supervisor is [Prof. Jianwei Zhang](https://tams.informatik.uni-hamburg.de/people/zhang/). Prior to this, I spent time as a Research Assistant in Shenzhen Institute of Advanced Technology,Chinese Academy of Sciences. I hold a B.Sc. in Mechatronics from [Harbin Institute of Technology](http://www.hit.edu.cn/) (HIT) and M.Sc. in Mechatronics from Shaoyang University,China.
 
 Research Summary
 ======

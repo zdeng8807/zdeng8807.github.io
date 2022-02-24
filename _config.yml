@@ -1,16 +1,11 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
+#网站主页左边的side bar 内容，可以通过修改根目录下面_config.yml来完成。主要修改“Site Settings” 和 “Site Author” 两个部分。
 
-# Site Settings
+# Site Settings （需要修改的内容）
 locale                   : "en-US"
-title                    : "Welcome"
+title                    : "Zhen Deng"
 title_separator          : "-"
 name                     : &name "Zhen Deng"
-description              : &description "Associate Professor in Department of Mechanical Engineering and Automation, Fuzhou University, Fuzhou, China."
+description              : &description "Associate Professor in Department of Mechanical Engineering and Automation, Fuzhou University, China."
 url                      : https://zdeng8807.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zdeng8807/zdeng8807.github.io"
@@ -78,10 +73,10 @@ analytics:
     tracking_id          :
 
 
-# Site Author
+# Site Author (需要修改的内容)
 author:
   name             : "Zhen Deng"
-  avatar           : "profile.png"
+  avatar           : "zdeng-min-crop.jpg"
   bio              : "Associate Professor in Department of Mechanical Engineering and Automation, Fuzhou University"
   location         : "Fuzhou, China."
   employer         :

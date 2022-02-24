@@ -2,7 +2,7 @@
 title: "Emotion classification with multichannel physiological signals using hybrid feature and adaptive decision fusion"
 collection: publications
 permalink: /publication/2022-emotion
-date: 2022-01
+date: 2022
 venue: 'PS: Political Science & Politics'
 paperurl: '/files/publication/2022-emotion.pdf'
 link: 'https://doi.org/10.1016/j.bspc.2021.103235'
